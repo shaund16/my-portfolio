@@ -9,6 +9,7 @@
   "author": "Shaun Purslow",
   "license": "ISC",
   "dependencies": {
-    "node-sass": "^4.14.1"
+    "node-sass": "^4.14.1",
+    "scss": "^0.2.4"
   }
 }
