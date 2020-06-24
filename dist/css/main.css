@@ -120,7 +120,7 @@ body {
 
 h1, h2, h3 {
   margin: 0;
-  font-weight: 400; }
+  font-weight: 400px; }
   h1.lg-heading, h2.lg-heading, h3.lg-heading {
     font-size: 6rem; }
   h1.sm-heading, h2.sm-heading, h3.sm-heading {
