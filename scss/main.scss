@@ -8,11 +8,12 @@
 body {
        @include background;
        background: $primary-color;
-       color: white;
+       color: #eeeeee;
        height: 100%;
        margin: 0;
        font-family: 'Palanquin', sans-serif;
        line-height: 1.5;
+       
 }
 
 
@@ -33,7 +34,7 @@ h1, h2, h3 {
 }
 
 a {
-       color: #fff;
+       color: #eeeeee;
        text-decoration: none;
 }
 
