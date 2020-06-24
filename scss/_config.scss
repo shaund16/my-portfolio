@@ -15,6 +15,7 @@ $background-opacity: 0.9;
                background: $home-image;
                background-attachment: fixed;
                background-size: cover;
+               overflow-y: hidden;
                
               &:after {
                 content: '';
@@ -41,7 +42,7 @@ $background-opacity: 0.9;
 // Media Query Mixins 
 
 @mixin mediaSm {
-       @media screen and (max-width: 500px) {
+       @media screen and (max-width: 400px) {
              @content; 
        }
 }
