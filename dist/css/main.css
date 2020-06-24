@@ -184,7 +184,8 @@ main {
   grid-gap: 0.7rem; }
   .projects img {
     width: 100%;
-    border: 3px #eeeeee solid; }
+    height: 180px;
+    border: 4px #eeeeee solid; }
     .projects img:hover {
       opacity: 0.5;
       border-color: #00adb5;
